@@ -1,4 +1,4 @@
-console.log("Hello Git 🚀");
+console.log("Hello Mariam🚀");
 
 import { add } from "./math.js";
 
